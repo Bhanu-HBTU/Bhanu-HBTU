@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me? My EMail : bhanuprataps1610@gmail.com
-- ⚡ Code is 💞️
+- ⚡ Coding is 💞️
 
 <!---
 Bhanu-HBTU/Bhanu-HBTU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
